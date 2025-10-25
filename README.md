@@ -1,83 +1,149 @@
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
 
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!-- Whats up hacker news, i dont give a shit about being a github influencer lmao stop judging me based on literally a bio i typed up in 3 minutes -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
+### 📫 Like to meet me?
 
-<!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on -->
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories)
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
-  <a href="https://swyx.io">Blog</a> •
-  <a href="https://latent.space">AI Podcast</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">Twitter</a> •
-  <a href="https://github.com/sw-yx/README">Work README</a> •
-  <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>
-</p>
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C975%20hrs%204%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-702-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 357.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 762 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 32 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1201 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+🌆 Daytime                4122 commits        █████████░░░░░░░░░░░░░░░░   35.60 % 
+🌃 Evening                3654 commits        ████████░░░░░░░░░░░░░░░░░   31.55 % 
+🌙 Night                  2603 commits        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1287 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Tuesday                  1571 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Wednesday                1974 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Thursday                 1234 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Friday                   1168 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Saturday                 1589 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Sunday                   2757 commits        ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+```
 
 
-I'm currently Writer and Cohost of the [Latent Space](https://latent.space/) AI newsletter/podcast and [working on something smol](https://smol.ai/). I previously helped lead or build DevRel/DX at AWS and 3 devtools unicorns (Netlify, Temporal, Airbyte). Because I love GitHub and this is my GH Readme, I guess I should also say that I'm honored to be a [GitHub Star ⭐](https://stars.github.com/) as it has changed my life and I often share freely about how [I use GitHub for all sorts of unusual things](https://www.google.com/search?q=swyx+how+i+use+github).
+📊 **This Week I Spent My Time On** 
 
-I previously did a lot of community work for the React, Svelte, DevTools Angel Investing, and general JavaScript community, but now those have become less of a focus as my new founder duties ramped up.
+```text
+🕑︎ Time Zone: Asia/Kolkata
 
-If you are a junior developer looking to level up to senior, I <a href="https://learninpublic.org/?from=GH%20README">wrote my book for you</a>.
+💬 Programming Languages: 
+TypeScript               11 hrs 1 min        ████████████████████████░   95.52 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Shell Script             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
-<a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
-</a>
+🔥 Editors: 
+WebStorm                 8 hrs 38 mins       ███████████████████░░░░░░   74.84 % 
+VS Code                  2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
 
-<!-- 
+💻 Operating System: 
+Mac                      11 hrs 32 mins      █████████████████████████   100.00 % 
+```
 
-- See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
-- 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
-- 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io) and [Airbyte](https://airbyte.io)!
-- 📫 How to reach me: `swyx at hey dot com`
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
+**I Mostly Code in JavaScript** 
 
--->
-
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+```text
+JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+```
 
 
-<!--START_SECTION:endorsements-->
-  ### Skills & Endorsements
-  
-  I would like to add you to my professional network on the GITHUB.
 
-  <ul>
-  <li><a href="https://github.com/swyxio/swyxio/issues/64">DevOps</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/63">Java</a>: <img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/62">Python</a>: <img src=https://avatars.githubusercontent.com/u/82009045?u=797f67f8fcd61097412694a5c98aa4ba9f388649&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/61">Java</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/60">GitHub Readme AWESOMENESS</a>: <img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/59">DevOps</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/56">Software Engineering</a>: <img src=https://avatars.githubusercontent.com/u/158775116?u=14d7b9e4a9101dc79e791cd4e455f6c0cc667d4e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/15820796?u=0301df6885dae6682ca95457af53854ef94f071c&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/55">Roblox Studio</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/54">cockery</a>: <img src=https://avatars.githubusercontent.com/u/28301369?u=1a2fb6e1db1ded905a4c38f5643943c1e6c9f64e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/15427049?u=e66d7521bc1ac0de424d9da9ae315fe24afaee92&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/52">Dawg in him</a>: <img src=https://avatars.githubusercontent.com/u/8742021?u=389d403ecf207e93e39af9c8b43828854655f1a7&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/44032235?u=cdab74ccd0fe95efbe9c5620328198bb524305db&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/51">AI Project Delivery</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/50">SKILL_HERE</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/49">React</a>: <img src=https://avatars.githubusercontent.com/u/46057471?u=4d1bf69d7c338cd909764162dc3354c354f91bed&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/2555503?u=d8b410189cf5cb0698858ef6d64bbdd03f0473ef&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46792207?u=3a6ff7bb5471781d3081218ff6ffcef48d2ef955&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/6303786?u=daafe664c0f2af5b6ea6bfa72271d0e351c97b2f&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/5083214?v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/48">Flutter</a>: <img src=https://avatars.githubusercontent.com/u/15138747?u=77b91bf625688dffe218d01082ecf91e43801cd1&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/3353385?u=2ae27e396879f4b43730416370997ad7208c9745&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/37607224?u=a6dbee4f04ab3071d2f5b19160bc359d6cd62f8a&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/52480636?u=60f01edf07bc7acc5dc7072e8d4b8b86a1809eb8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76885050?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/30106022?u=62f235fb32a91460d03550357b538610a42fb1d5&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/79903756?u=560ba2a5067ea4c4553e355fe34791b359f4a5b8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/47685150?u=9841362367533afbfa4f12c72d59ff8760e1b804&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/63846399?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/64674824?u=65cfa8f3de347a65c83c01d3c2066d32aa139ce5&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/46">React</a>: <img src=https://avatars.githubusercontent.com/u/56319778?u=7e7129c86cb0839d5ec764b19fd9687d7149868d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/121201452?u=c4ae55c00e76381437343b24f7fdb9bc4433dcad&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/78602031?u=40555416e32672ed73e9eaa5637c52ebb3f5ade0&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/57211233?u=9e41850fd1bed137d15a9ad25205914ed0f663bd&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/4616064?u=dc4532608d264458a1a6179a24c99a983b66f2c2&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/95548013?u=a9f02e9359f5e61e5665622b62d7b48dcc703d47&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/5029660?u=a284778cc7a3cb286780137638f6d2fd0f77f231&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46057471?u=4d1bf69d7c338cd909764162dc3354c354f91bed&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/18576811?u=cab60f106fee85b56525bc558367423e02cdb7f1&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/52394293?u=4f927a2ece6b640bf34a3441f6605c1c77d680fc&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/25568064?u=8f8d379bc13c0fce9646ee276a415541237fd0c8&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/45">SKILL_HERE</a>: <img src=https://avatars.githubusercontent.com/u/56319778?u=7e7129c86cb0839d5ec764b19fd9687d7149868d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/121201452?u=c4ae55c00e76381437343b24f7fdb9bc4433dcad&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/610638?u=313cc0baf1e4028063b5c6c594b6823dbb45dd71&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/44">Machine Learning</a>: <img src=https://avatars.githubusercontent.com/u/56319778?u=7e7129c86cb0839d5ec764b19fd9687d7149868d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/145041038?u=e64cc7ccd92e361f3d30cea3deab407866cedf29&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/43">Nice Projects</a>: <img src=https://avatars.githubusercontent.com/u/86871991?u=e53a03ec7552d32e0f01d62f51758855d615f70d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/74574275?u=b66164e6e8bb2ebb6510484d2ae31ad605e216af&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/60849894?u=c54c724c7d7fd5368f537b886591bf68a7127bfb&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/26383905?u=41b5f265617d49c435eef4fe09f0fe5e1e03f80b&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/9533646?u=bdeb73be2e3c6aeaacf3e82887429a6e774be38e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66274903?u=25b3729858874b8bb6a1c5b63570ca1778d913d0&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/95628792?u=0892008915626e959ebfee29c3199f9e128d2ff4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/79057640?u=da15edc20e96275a463bb9736a22e9a4eaf876e1&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/16997807?u=dd0550e291d4450e5e60f215e535ae42b35043a4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/70442338?u=beb1f1295293ecd690ef5e0828e4eb225439cfe7&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/119356356?u=2969fd2499e3d7e0f299cfb44d06fe0de62420d3&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/41">wow cool readme</a>: <img src=https://avatars.githubusercontent.com/u/67929847?u=8f496a9425b6fb1cd4e717eda5754f5e1ff00d99&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/8036315?u=edeada0c9164e7b7399f2c9cd74dbb53fcbc62f3&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/33608116?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/7691110?u=f50895c9c7d4e27e10a10bb41daf739d346ef420&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/25782070?u=52456d1dc05f44339fc7ac38e6a12416145f948e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/59306143?u=554f4f17ff1fe3da319641bba270051fd587f7bd&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/90595158?u=85d527d9fe622ef8be5be506f346f677176292d9&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/89905833?u=2c2d5a336726310c6dbf60b36167100e7179df84&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/7946748?u=195c6b7c89cc3493a3624888efbd9b1f74871f06&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/4616064?u=dc4532608d264458a1a6179a24c99a983b66f2c2&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/3819724?u=a7af35d70c4644c95d3d72ca2ae475f6e599a50e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/59414243?u=0ae16f81f3dcb9f6268390d602f36104acae8d10&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/93786592?u=f86ff0e8d0289562c2bfd4df1f2f317e163daea6&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/33098072?u=c03aeac26b217a8016c296d1b9c7f447b5743bbc&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/142387029?u=0a9ee23ffa612efd43a616fd86f58c5ca2f3607e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/89846654?u=6f2a9ff8d9bff559bd0d112182a3c38881684b3d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/35992057?u=0127beb8fbdedd25bacaf682efc6aadb045ed93b&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/122175234?u=822d0ef6c00e5a1144847e62c048a511cbaab625&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/6699901?u=32b1934c28bc7f496ec20624654780c2b23f40d3&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/10172142?u=ca6cef7414a9d269766bdf1a4749abecdca76265&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/119356356?u=2969fd2499e3d7e0f299cfb44d06fe0de62420d3&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/32396925?u=5a8ee3008737bdb5f5751a6929fe2c035c184d2b&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/40">Creativity</a>: <img src=https://avatars.githubusercontent.com/u/5083214?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/1330573?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/79557780?u=48bc43015df9d39251b9de7ef8e6054a606e7a73&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43346471?u=c768a3c22670552ad1bb83fb78b16794bcbdaaf4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/84139744?u=5023e48fa680d47f5e9bc7c3f3f63627b360e83e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/305414?u=5e1b972a358e9fd64c638258f24f7a9d3c6ce5d4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/4337705?u=b042eccb9c76e19b82d115419ee7b44557ab65ef&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/42885087?u=6cfe2461f65e78b0457a4ddc0df647714653d6dd&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/6334512?u=e73f39bbd3754d53805d43180e2f9cb87c7a78ff&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/89905833?u=2c2d5a336726310c6dbf60b36167100e7179df84&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/125072926?u=5c680a5b54dd182f729c6f2fda2b206375211224&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46008593?u=5c5dbfd810e5175afc8d4a3f7d11bc873b700fd8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46008593?u=5c5dbfd810e5175afc8d4a3f7d11bc873b700fd8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46008593?u=5c5dbfd810e5175afc8d4a3f7d11bc873b700fd8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46008593?u=5c5dbfd810e5175afc8d4a3f7d11bc873b700fd8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46008593?u=5c5dbfd810e5175afc8d4a3f7d11bc873b700fd8&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/39">TypeScript</a>: <img src=https://avatars.githubusercontent.com/u/1310895?u=aa5492101d2ba04c0c5a2fd6274e18e74edcc21e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/32578695?u=4d29c60cdf3bd3baa5711262fff129c37e9cc273&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/39828165?u=e0c1cc28dc7156a3d6714beb9d6732e143f253ff&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/84139744?u=5023e48fa680d47f5e9bc7c3f3f63627b360e83e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/60979926?u=b92ca8009237d06ca71c03d2f25a3de3a4a72ed4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/7358912?u=6b354a068b3f5b69ce366ae119ed74566fdf0d61&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/102946270?u=8f26c9c5e51e3407accdad98fd6631ba8cdb89e9&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/7151485?u=0c604d6c03d8de56403af45dd4c365a97a405966&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/26205666?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76874341?u=2bda9a61a551e4fb29b655cd405f4f2a46ba70b0&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/40840079?u=cb0332edd5a71ee5918e616649e29ca4a1d721ad&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/38">JavaScript</a>: <img src=https://avatars.githubusercontent.com/u/91498093?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/23583726?u=d9aa829afdaf165d3b94a1c0151c3421d4eb2dc2&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/1310895?u=aa5492101d2ba04c0c5a2fd6274e18e74edcc21e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/5083214?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/32578695?u=4d29c60cdf3bd3baa5711262fff129c37e9cc273&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/87615572?u=9663c624ce9880000604a9cfc697e2da251ce4fd&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/67929847?u=8f496a9425b6fb1cd4e717eda5754f5e1ff00d99&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/68931378?u=b4faaf1cfde3007c698e8d474244bdd6c4affcfb&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/45036724?u=9e742256a5a6f3845b300cbb5f4a2cb5ec9e89f7&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/56319778?u=7e7129c86cb0839d5ec764b19fd9687d7149868d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/121201452?u=c4ae55c00e76381437343b24f7fdb9bc4433dcad&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76874341?u=2bda9a61a551e4fb29b655cd405f4f2a46ba70b0&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/4616064?u=dc4532608d264458a1a6179a24c99a983b66f2c2&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/89846654?u=6f2a9ff8d9bff559bd0d112182a3c38881684b3d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/94984885?u=76342cfdd13479588781497d05ec35a19d4af473&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/37">Self-Start</a>: <img src=https://avatars.githubusercontent.com/u/33608116?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/55244578?u=74720b743868ded2ffb1e2b010f496684982d38e&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/35">javascript</a>: <img src=https://avatars.githubusercontent.com/u/53054099?u=cb5b0c881e0c9f7c7aa00da0a6b5bed62da4618e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/28717686?u=86363150947ccfd83f7adf5cc57e60e348a2b7d4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/67929847?u=8f496a9425b6fb1cd4e717eda5754f5e1ff00d99&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/64121292?u=3c3a11cacc6ba56261efe34daec7c4a9bf14f511&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/67689090?u=1750e828e5c2af149332172ea540f82fafbe0b84&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76874341?u=2bda9a61a551e4fb29b655cd405f4f2a46ba70b0&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/4126?u=22619cea9e5c2872c345b909ea5adbe47e3be2f8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/115037887?u=b9b15d0dea0aa005daa3cc05ac08213412c2f055&v=4&s=20 height=20 /></li>
-  <li><a href="https://github.com/sw-yx/sw-yx/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
-  </ul>
-  <!--END_SECTION:endorsements-->
+
+ Last Updated on 25/10/2025 00:39:46 UTC
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
